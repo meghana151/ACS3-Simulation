@@ -5,21 +5,14 @@ The aim of this project is to simulate how the ACS3 solar sail satellite would a
 ```
 acs3-observation-simulation/
 │
-├── blender_scripts/
-│   └── code.py                   # Main Blender Python script
-│
-├── models/
-│   └── Solar Sail concept 2.lwo  # ACS3 3D model (LightWave format)
-│
+├── code.py                   # Main Blender Python script
+├── Solar Sail concept 2.lwo  # ACS3 3D model (LightWave format)
 ├── outputs/
-│   └── images/
 │       ├── 1262.png
 │       ├── 1217.png
 │       ├── 1339.png
 │       └── 1101.png
-│
 ├── final_report.pdf
-│
 ├── README.md
 └── LICENSE
 ```
